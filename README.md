@@ -69,6 +69,65 @@
 
 ---
 
+<div align="center">
+
+## 🏆 &nbsp; GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+<div align="center">
+
+## 📊 &nbsp; GITHUB STATS
+
+<br/>
+
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=FF006E&icon_color=00F5FF&text_color=ffffff"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF006E&text_color=ffffff"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USERNAME&theme=radical&hide_border=true&background=0d0d0d&stroke=FF006E&ring=FF006E&fire=FF7700&currStreakLabel=FF006E&sideLabels=ffffff&dates=555555&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+<div align="center">
+
+## 🐍 &nbsp; CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+<div align="center">
+
+## 📈 &nbsp; ACTIVITY GRAPH
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&bg_color=0d0d0d&color=FF006E&line=00F5FF&point=FF7700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
 ## 🌐 &nbsp; CONNECT WITH ME
 
 [![Instagram](https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/TU_USUARIO)
