@@ -3,7 +3,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=900&size=32&duration=2800&pause=700&color=FF006E&center=true&vCenter=true&width=820&lines=💻+SOFTWARE+DEVELOPER;🎨+GRAPHIC+%26+WEB+DESIGNER;⚡+FULL+STACK+BUILDER;🌐+CÓDIGO+BRUTAL.+DISEÑO+QUE+IMPACTA.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=900&size=18&duration=2800&pause=700&color=00feeb&center=true&vCenter=true&width=820&lines=SOFTWARE+DEVELOPER;GRAPHIC+%26+WEB+DESIGNER;CÓDIGO+ESCALABLE.+DISEÑO+QUE+FUNCIONA.)](https://git.io/typing-svg)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -12,18 +12,17 @@
 
 ## 👾 &nbsp; ABOUT ME
 
-- 💻 &nbsp; **Software Developer** apasionado por construir soluciones digitales desde cero.
-- 🎨 &nbsp; **Graphic & Web Designer** con ojo para el detalle y el impacto visual.
+- 💻 &nbsp; **Software Developer** La creatividad no tiene limites.
+- 🎨 &nbsp; **Graphic & Web Designer**.
 - 🌐 &nbsp; Actualmente trabajando en proyectos de **diseño web y desarrollo full stack**.
-- ⚡ &nbsp; Siempre aprendiendo algo nuevo — el caos creativo me mantiene vivo.
-- 🛠️ &nbsp; Me encanta jugar con **APIs, automatizaciones y diseño de sistemas**.
-- 🚀 &nbsp; Creo que el buen código y el buen diseño son la misma cosa.
+- ⚡ &nbsp; Siempre aprendiendo algo nuevo.
+- 🚀 &nbsp; Creo que el buen código y el buen diseño forman un templo de soluciones.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## ⚡ &nbsp; TECH STACK
+## ⚡ &nbsp; Tecnologías que manejo.
 
 <br/>
 
@@ -42,7 +41,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**▸ &nbsp;DATABASES**
+**▸ &nbsp;BASES DE DATOS**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -64,53 +63,6 @@
 
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<div align="center">
-
-## 🏆 &nbsp; GITHUB TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=JR-1010&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<div align="center">
-
-## 📊 &nbsp; GITHUB STATS
-
-<br/>
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=JR-1010&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=FF006E&icon_color=00F5FF&text_color=ffffff"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JR-1010&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF006E&text_color=ffffff"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JR-1010&theme=radical&hide_border=true&background=0d0d0d&stroke=FF006E&ring=FF006E&fire=FF7700&currStreakLabel=FF006E&sideLabels=ffffff&dates=555555&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<div align="center">
-
-## 🐍 &nbsp; CONTRIBUTION SNAKE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JR-1010/JR-1010/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JR-1010/JR-1010/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/JR-1010/JR-1010/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -142,7 +94,9 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=4000&pause=1000&color=FF006E&center=true&vCenter=true&width=700&lines=★+GRACIAS+POR+VERME+★)](https://git.io/typing-svg)
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:FF006E,100:00F5FF&height=4&section=footer" width="100%"/>
