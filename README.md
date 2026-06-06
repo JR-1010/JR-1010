@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/main/logo.png" width="230px" alt="Logo"/>
+<img src="https://raw.githubusercontent.com/JR-1010/JR-1010/main/logo.png" width="420px" alt="Logo"/>
 
 <br/><br/>
 
@@ -73,7 +73,7 @@
 
 ## 🏆 &nbsp; GITHUB TROPHIES
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JR-1010&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5"/>
 
 </div>
 
@@ -87,12 +87,12 @@
 
 <br/>
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=FF006E&icon_color=00F5FF&text_color=ffffff"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF006E&text_color=ffffff"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=JR-1010&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=FF006E&icon_color=00F5FF&text_color=ffffff"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JR-1010&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF006E&text_color=ffffff"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USERNAME&theme=radical&hide_border=true&background=0d0d0d&stroke=FF006E&ring=FF006E&fire=FF7700&currStreakLabel=FF006E&sideLabels=ffffff&dates=555555&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JR-1010&theme=radical&hide_border=true&background=0d0d0d&stroke=FF006E&ring=FF006E&fire=FF7700&currStreakLabel=FF006E&sideLabels=ffffff&dates=555555&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </div>
 
@@ -105,9 +105,9 @@
 ## 🐍 &nbsp; CONTRIBUTION SNAKE
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JR-1010/JR-1010/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JR-1010/JR-1010/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/JR-1010/JR-1010/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -120,7 +120,7 @@
 
 ## 📈 &nbsp; ACTIVITY GRAPH
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&bg_color=0d0d0d&color=FF006E&line=00F5FF&point=FF7700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JR-1010&bg_color=0d0d0d&color=FF006E&line=00F5FF&point=FF7700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -137,7 +137,7 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=TU_USERNAME&color=FF006E&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=JR-1010&color=FF006E&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
